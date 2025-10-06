@@ -142,10 +142,10 @@ plt.show()
 # Output Waveform
 ```
 PSK
-<img width="1041" height="694" alt="Screenshot 2025-10-06 140438" src="https://github.com/user-attachments/assets/2a39a378-1775-4d9b-9ba2-83c530dff692" />
+"https://github.com/user-attachments/assets/2a39a378-1775-4d9b-9ba2-83c530dff692" />
 
 QPSK
-<img width="1036" height="648" alt="image" src="https://github.com/user-attachments/assets/dd247bc4-b19c-4c0a-8357-ab528a82fab4" />
+"https://github.com/user-attachments/assets/dd247bc4-b19c-4c0a-8357-ab528a82fab4" />
 
 ```
 # Results
