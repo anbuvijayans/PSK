@@ -140,17 +140,13 @@ plt.grid(True)
 plt.show()
 ```
 # Output Waveform
-```
 # PSK
 ![WhatsApp Image 2025-10-06 at 14 21 38_e801a5cd](https://github.com/user-attachments/assets/8aa318d3-3f1e-4b17-9623-b5fdf9e74be1)
 
 # QPSK
 ![WhatsApp Image 2025-10-06 at 14 21 26_5e6f2de6](https://github.com/user-attachments/assets/bbe99363-d589-44ca-a558-1af7147add35)
 
-
-```
 # Results
-```
 The experiment of modulation and demodulation of Phase Key Shifting and Quadriphase Key Shifting was successfully executed.
-```
+
 
